@@ -63,17 +63,17 @@ Referências bibliograficas utilizadas na escrito do artigo do trabalho de concl
 
 ## 🛠️ FERRAMENTAS UTILIZADAS
 
-- AutoCAD: elaboração do diagrama unifilar e da arquitetura de automação e comunicação.
-- PVSyst: dimensionamento do sistema. extração de variáveis de geração e de irradiação.
-- Excel: cálculos gerais.
+**AutoCAD:** elaboração do diagrama unifilar e da arquitetura de automação e comunicação.
+**PVSyst:** dimensionamento do sistema. extração de variáveis de geração e de irradiação.
+**Excel:** cálculos gerais.
 
 ---
 
 ## 🏫 INSTITUIÇÃO
 
 Centro Universitário Hermínio Ometto – Araras/SP  
-Curso: Engenharia Elétrica  
-Defesa: Dezembro de 2025
+**Curso:** Engenharia Elétrica  
+**Defesa:** Dezembro de 2025
 
 ---
 
@@ -85,6 +85,6 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 
 ## ✉️ CONTATO
 
-- Mateus Gomes Justino
-- mateusjustino91@gmail.com
-- www.linkedin.com/in/mateus-justino-ax01
+**Autor:** Mateus Gomes Justino
+**Email:** mateusjustino91@gmail.com
+**Linkedin:** www.linkedin.com/in/mateus-justino-ax01
