@@ -1,6 +1,6 @@
 # ANÁLISE DE IMPLANTAÇÃO DE UMA USINA FOTOVOLTAICA PARA A FHO
 
-## RESUMO
+## 💠 RESUMO
 <p align="justify">
 Este trabalho apresenta a análise de implantação de uma usina fotovoltaica para suprir a 
 demanda elétrica da unidade de Santa Bárbara d’Oeste da FHO. O sistema proposto é do tipo 
