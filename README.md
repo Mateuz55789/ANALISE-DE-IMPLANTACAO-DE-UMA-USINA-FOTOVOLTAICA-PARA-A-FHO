@@ -85,6 +85,6 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 
 ## 📧 CONTATO
 
-**Autor:** Mateus Gomes Justino
-**Email:** mateusjustino91@gmail.com
-**Linkedin:** www.linkedin.com/in/mateus-justino-ax01
+**Autor:** Mateus Gomes Justino  
+**Email:** mateusjustino91@gmail.com  
+**Linkedin:** www.linkedin.com/in/mateus-justino-ax01  
