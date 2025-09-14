@@ -29,10 +29,10 @@ Este espaço foi criado para centralizar todos os arquivos e materiais que foram
 ## 📁 FORMATAÇÃO DAS PASTAS
 Todos os arquivos estão separados em suas respectivas pastas:
 
-### 📁 NORMAS
+### 📂 NORMAS
 Normas técnicas consideradas para o desenvolvimento do projeto.
 
-### 📁 CÁLCULOS
+### 📂 CÁLCULOS
 Foi elaborado um arquivo no excel contendo todos os cálculos do projeto, sendo descritos em cada aba do arquivo:
 - **Aba 1 – Contas de Energia:** contas enviadas pela universidade, cálculo do consumo mensal e médias tarifárias (TUSD e TE).
 - **Aba 2 – PVSyst:** parâmetros de geração obtidos no software PVSyst; cálculos de viabilidade econômica (VPL, TIR, TMA, ROI e Payback).
@@ -45,18 +45,18 @@ Foi elaborado um arquivo no excel contendo todos os cálculos do projeto, sendo 
 - **Aba 9 – Potência:** dimensionamento das cargas auxiliares (iluminação, tomadas, comunicação, etc.).
 - **Aba 10 – Componentes:** lista de equipamentos principais (módulos, inversores, transformadores e outros).
   
-### 📁 DIAGRAMA UNIFILAR
+### 📂 DIAGRAMA UNIFILAR
 <p align="justify">
 Foi elaborado um diagrama unifilar para representar os principais componentes e a capacidade do projeto. Além disso, desenvolveu-se uma arquitetura de automação e comunicação, que ilustra tanto o sistema de controle da usina quanto o sistema de vigilância por CFTV.
 </p>
 
-### 📁 DATASHEETS
+### 📂 DATASHEETS
 Datasheets dos componentes especificados para o projeto.
 
-### 📁 ARTIGO
+### 📂 ARTIGO
 Artigo do projeto elaborado para o trabalho de conclusão de curso (TCC).
 
-### 📁 REFERÊNCIAS BIBLIOGRÁFICAS
+### 📂 REFERÊNCIAS BIBLIOGRÁFICAS
 Referências bibliograficas utilizadas na escrito do artigo do trabalho de conclusão de curso (TCC).
 
 ---
@@ -83,7 +83,7 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 
 ---
 
-## ✉️ CONTATO
+## 📧 CONTATO
 
 **Autor:** Mateus Gomes Justino
 **Email:** mateusjustino91@gmail.com
