@@ -24,10 +24,10 @@ solar fotovoltaica representa uma solução eficiente, econômica e ambientalmen
 Este espaço foi criado para centralizar todos os arquivos e materiais que foram utilizados e/ou desenvolvidos durante a criação deste projeto. O propósito é oferecer um registro completo do processo, de concepção, permitindo que qualquer pessoa interessada possa explorar e entender como o projeto.
 </p>
 
-***
+---
 
-## FORMATAÇÃO DAS PASTAS
-Todos os arquivos estão separados em suas respectivas pastas 📁
+## 📁 FORMATAÇÃO DAS PASTAS
+Todos os arquivos estão separados em suas respectivas pastas:
 
 ### 📁 NORMAS
 Normas técnicas consideradas para o desenvolvimento do projeto.
@@ -63,10 +63,9 @@ Referências bibliograficas utilizadas na escrito do artigo do trabalho de concl
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Dialux Evo (simulação luminotécnica);  
-- PSP-UFU (simulação de faltas e curtos);  
-- AutoCAD (diagrama unifilar);
-- Excel (cálculos).
+- AutoCAD: elaboração do diagrama unifilar e da arquitetura de automação e comunicação.
+- PVSyst: dimensionamento do sistema. extração de variáveis de geração e de irradiação.
+- Excel: cálculos gerais.
 
 ---
 
