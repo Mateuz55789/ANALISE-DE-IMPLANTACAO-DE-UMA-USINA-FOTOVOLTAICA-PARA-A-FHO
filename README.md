@@ -61,6 +61,15 @@ Referências bibliograficas utilizadas na escrito do artigo do trabalho de concl
 
 ---
 
+## 🛠️ Ferramentas Utilizadas
+
+- Dialux Evo (simulação luminotécnica);  
+- PSP-UFU (simulação de faltas e curtos);  
+- AutoCAD (diagrama unifilar);
+- Excel (cálculos).
+
+---
+
 ## 🏫 Instituição
 
 Centro Universitário Hermínio Ometto – Araras/SP  
