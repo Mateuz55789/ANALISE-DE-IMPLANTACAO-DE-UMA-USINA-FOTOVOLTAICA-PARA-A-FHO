@@ -56,6 +56,6 @@ Datasheets dos componentes especificados para o projeto.
 ### 📁 ARTIGO
 Artigo do projeto elaborado para o trabalho de conclusão de curso (TCC).
 
-## 📁 REFERÊNCIAS BIBLIOGRÁFICAS
+### 📁 REFERÊNCIAS BIBLIOGRÁFICAS
 Referências bibliograficas utilizadas na escrito do artigo do trabalho de conclusão de curso (TCC).
 
