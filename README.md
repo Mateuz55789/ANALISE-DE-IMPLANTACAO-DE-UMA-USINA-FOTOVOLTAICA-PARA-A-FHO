@@ -16,3 +16,26 @@ retorno do investimento atrativo, aliado à contribuição para a sustentabilida
 redução expressiva da emissão de gases de efeito estufa. Conclui-se que a adoção da energia 
 solar fotovoltaica representa uma solução eficiente, econômica e ambientalmente responsável. 
 </p>
+
+---
+
+## OBJETIVO DESSE REPOSITÓRIO 
+<p align="justify">
+Este espaço foi criado para centralizar todos os arquivos e materiais que foram utilizados e/ou desenvolvidos durante a criação deste projeto. O propósito é oferecer um registro completo do processo, de concepção, permitindo que qualquer pessoa interessada possa explorar e entender como o projeto.
+</p>
+
+***
+
+## FORMATAÇÃO DAS PASTAS
+Todos os arquivos estão separados em suas respectivas pastas 📁
+- **CÁLCULOS:** foi elaborado um arquivo no excel contendo todos os cálculos do projeto, sendo descritos em cada aba do arquivo.
+  - **Aba 1 – Contas de Energia:** contas enviadas pela universidade, cálculo do consumo mensal e médias tarifárias (TUSD e TE).
+  - **Aba 2 – PVSyst:** parâmetros de geração obtidos no software PVSyst; cálculos de viabilidade econômica (VPL, TIR, TMA, ROI e Payback).
+  - **Aba 3 – Custos:** estimativas de custos do projeto com base em pesquisas de mercado.
+  - **Aba 4 – Tarifas e Taxas:** histórico de reajustes da CPFL Paulista, médiada inflação e média da SELIC nos últimos 10 anos.
+  - **Aba 5 – Irradiações:** dados de irradiação solar de 2024 em Santa Bárbara d’Oeste (GHI e difusa).
+  - **Aba 6 – Temperatura:** registros de temperatura local em 2024 para análise da eficiência dos módulos.
+  - **Aba 7 – Fluxo:** fluxos energéticos simulados para avaliar o balanço da usina em diferentes cenários.
+  - **Aba 8 – Cabos:** especificação e dimensionamento dos cabos e condutores com critérios de segurança.
+  - **Aba 9 – Potência:** dimensionamento das cargas auxiliares (iluminação, tomadas, comunicação, etc.).
+  - **Aba 10 – Componentes:** lista de equipamentos principais (módulos, inversores, transformadores e outros).
