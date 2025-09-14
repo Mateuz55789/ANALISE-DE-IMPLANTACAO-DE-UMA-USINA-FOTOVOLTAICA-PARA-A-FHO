@@ -59,3 +59,23 @@ Artigo do projeto elaborado para o trabalho de conclusão de curso (TCC).
 ### 📁 REFERÊNCIAS BIBLIOGRÁFICAS
 Referências bibliograficas utilizadas na escrito do artigo do trabalho de conclusão de curso (TCC).
 
+---
+
+## 🏫 Instituição
+
+Centro Universitário Hermínio Ometto – Araras/SP  
+Curso: Engenharia Elétrica  
+Defesa: Dezembro de 2025
+
+---
+
+## ⚠️ Restrições de Uso
+
+Este projeto destina-se unicamente para fins didáticos e não deve ser utilizado em aplicações reais sem validação técnica profissional. Qualquer uso comercial, seja direto ou indireto, é estritamente proibido sem autorização expressa do autor. Para outras finalidades ou solicitações de uso que não se enquadrem nessas condições, por favor, entre em contato com o autor.
+
+---
+
+## ✉️ Contato
+- Mateus Gomes Justino
+- mateusjustino91@gmail.com
+- www.linkedin.com/in/mateus-justino-ax01
