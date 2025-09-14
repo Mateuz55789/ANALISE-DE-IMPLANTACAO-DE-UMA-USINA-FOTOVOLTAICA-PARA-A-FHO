@@ -19,7 +19,7 @@ solar fotovoltaica representa uma solução eficiente, econômica e ambientalmen
 
 ---
 
-## OBJETIVO DESSE REPOSITÓRIO 
+## 📌 OBJETIVO DESSE REPOSITÓRIO 
 <p align="justify">
 Este espaço foi criado para centralizar todos os arquivos e materiais que foram utilizados e/ou desenvolvidos durante a criação deste projeto. O propósito é oferecer um registro completo do processo, de concepção, permitindo que qualquer pessoa interessada possa explorar e entender como o projeto.
 </p>
