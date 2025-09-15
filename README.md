@@ -85,7 +85,7 @@ Este projeto destina-se unicamente para fins didáticos e não deve ser utilizad
 
 ## 📧 CONTATO
 **Orientador:** Daniel Augusto Pagi Ferreira  
-**Enail:** danielferreira@fho.edu.br
+**Email:** danielferreira@fho.edu.br
 
 **Autor:** Mateus Gomes Justino  
 **Email:** mateusjustino91@gmail.com  
