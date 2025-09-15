@@ -71,7 +71,7 @@ Referências bibliograficas utilizadas na escrito do artigo do trabalho de concl
 
 ## 🏫 INSTITUIÇÃO
 
-**Centro Universitário Hermínio Ometto – Araras/SP**
+**Centro Universitário Hermínio Ometto – Araras/SP**  
 **Curso:** Engenharia Elétrica  
 **Defesa:** Dezembro de 2025
 
