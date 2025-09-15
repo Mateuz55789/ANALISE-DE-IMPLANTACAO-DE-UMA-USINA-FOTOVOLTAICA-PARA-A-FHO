@@ -64,7 +64,7 @@ Referências bibliograficas utilizadas na escrito do artigo do trabalho de concl
 ## 🛠️ FERRAMENTAS UTILIZADAS
 
 **AutoCAD:** elaboração do diagrama unifilar e da arquitetura de automação e comunicação.  
-**PVSyst:** dimensionamento do sistema. extração de variáveis de geração e de irradiação.  
+**PVSyst:** dimensionamento do sistema.  extração de variáveis de geraçãoo e de irradiação.  
 **Excel:** cálculos gerais.
 
 ---
